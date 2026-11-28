@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/sudheera-chandrajith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://medium.com/@sudheerachandrajith"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://sudheera.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://blog.sudeerachandrajith1212.workers.dev/resume/"><img src="https://img.shields.io/badge/Resume-3fb950?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -14,6 +15,10 @@
   <img src="https://img.shields.io/github/followers/Perz3us?style=flat-square&label=followers&labelColor=555&color=1f6feb" alt="followers" />
   <img src="https://img.shields.io/github/stars/Perz3us?affiliations=OWNER&style=flat-square&label=stars&labelColor=555&color=d29922" alt="stars" />
 </p>
+
+### about me
+
+Cybersecurity undergrad at SLIIT. Looking for an internship.
 
 ### stuff i made
 
@@ -36,7 +41,7 @@
 
 ### tech stack
 
-<img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,bash,linux,git,github,react,nodejs,vscode&theme=dark&perline=13" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=c,py,ts,js,html,css,bash,linux,git,github,react,nodejs,docker,postgres,grafana,vscode&theme=dark&perline=16" alt="tech stack" />
 
 <br />
 
